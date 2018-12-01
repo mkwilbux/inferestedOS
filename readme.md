@@ -22,3 +22,5 @@ work on speech training
 ## config consolidation
 People like that rasp pi config interface... maybe something like this for the OS... for config... nahhhhh
 not going to make it that easy. muhahaha
+
+My  butler - a bit more sophisticated than the - "assistant"
