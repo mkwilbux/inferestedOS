@@ -1,2 +1,3 @@
 GPL 2,
 baby.
+Some is MIT....
